@@ -7,4 +7,4 @@
 3. [2026/04/21 講題：DEVELOPING HEAVY-LIFT HYBRID DRONES FOR CONTESTED LOGISTICS 講師：Prof. Stephen Prior, The University of Southampton, UK](20260421/README.md)
 4. [2026/04/28 講題：A Lightweight-Embedded Open-Set Speaker Identification System Based on Meta Learning 講師：國立雲林科技大學資訊工程系許正欣副教授](20260428/README.md)
 5. [2026/05/05 講題：群測感知技術與應用Crowdsensing Techniques and Applications 講師：國立中央大學通訊工程學系胡誌麟教授](20260505/README.md)
-6. [2026/05/11 講題：節能減碳之奈米光電元件 講師：國立雲林科技大學電子工程系 楊勝州 教授](20260511/README.md)
+6. [2026/05/12 講題：節能減碳之奈米光電元件 講師：國立雲林科技大學電子工程系 楊勝州 教授](20260512/README.md)
